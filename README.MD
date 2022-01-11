@@ -50,3 +50,8 @@ soy un readme .
 - <a href="http://google.com"> esto es un link en htmal</a>
 - [esto es un enlace en markdown](http://google.com)
 - [esto es un enlace en markdown](index.html)
+
+
+# imagenes
+![Logo Github](https://th.bing.com/th/id/OIP.eTCbdR_AFzbqHMPXhrJWUQHaEK?pid=ImgDet&rs=1)
+
