@@ -44,3 +44,9 @@ soy un readme .
 - esto es un item de lista ordenada
 - esto es un item de lista ordenada
 - esto es un item de lista ordenada
+
+
+# links
+- <a href="http://google.com"> esto es un link en htmal</a>
+- [esto es un enlace en markdown](http://google.com)
+- [esto es un enlace en markdown](index.html)
