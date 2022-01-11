@@ -88,3 +88,12 @@ hljs.registerLanguage('javascript', javascript);
 | maxi | burgos | mucho texto |
 | maxi | burgos | mucho texto |
 | maxi | burgos | mucho texto |
+
+# citas
+esto es un texto referente a una cita que pondremos:
+> esto es una cita
+
+se termino la cita
+
+> otra cita
+
