@@ -97,3 +97,15 @@ se termino la cita
 
 > otra cita
 
+
+# lineas divisoras
+esto es un texto
+
+--- 
+texto dividido
+
+***
+otra division
+___
+y ya 
+
