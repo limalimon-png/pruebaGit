@@ -81,3 +81,10 @@ import javascript from 'highlight.js/lib/languages/javascript';
 hljs.registerLanguage('javascript', javascript);
 
 ```
+# tablas
+| nombre | apellido | documento |
+| ------ | -------- | --------- |
+| maxi | burgos | mucho texto |
+| maxi | burgos | mucho texto |
+| maxi | burgos | mucho texto |
+| maxi | burgos | mucho texto |
