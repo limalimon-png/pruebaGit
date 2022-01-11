@@ -6,10 +6,15 @@
 ###### cabecera H6
 
 
+
+# underlines
+
 underline 1
 -----------
 underline 2
 ===========
+
+# formatos de enfasis
 
 - texto en *italica*
 - texto en _italica_
@@ -21,3 +26,21 @@ underline 2
 
 - aqui podemos usar *formato italica* , **bold** ,etc
 soy un readme .
+
+
+# listas
+
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+1. esto es un item de lista ordenada
+8. esto es un item de lista ordenada
+9. esto es un item de lista ordenada
+
+- esto es un item de lista ordenada
+- esto es un item de lista ordenada
+- esto es un item de lista ordenada
+- esto es un item de lista ordenada
