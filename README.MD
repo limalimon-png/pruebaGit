@@ -55,3 +55,29 @@ soy un readme .
 # imagenes
 ![Logo Github](https://th.bing.com/th/id/OIP.eTCbdR_AFzbqHMPXhrJWUQHaEK?pid=ImgDet&rs=1)
 
+# snippets
+Codigo en json
+```JSON
+[
+    {
+        "title":"apples",
+        "count":[12000,20000],
+        "description": {"text":"...","sensitive":false}
+    },
+    {
+        "title":"oranges",
+        "count":[17500,null],
+        "description": {"text":"...","sensitive":false}
+    }
+]
+
+```
+Codigo en javascript
+
+```Javascript
+[
+    import hljs from 'highlight.js/lib/core';
+import javascript from 'highlight.js/lib/languages/javascript';
+hljs.registerLanguage('javascript', javascript);
+
+```
